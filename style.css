@@ -26,7 +26,7 @@ h1 {
 
 .days, .hours, .minutes, .seconds {
   display: inline-block;
-  padding: 50px;
+  padding: 100px;
   width: 12%;
   border-radius: 15px;
 }
@@ -50,5 +50,5 @@ h1 {
 .numbers {
   font-family: "Montserrat", sans-serif;
   color: #323232;
-  font-size: 2em;
+  font-size: 3em;
 }

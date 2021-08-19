@@ -19,7 +19,7 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  font-size: 2em;
+  font-size: 3em;
   letter-spacing: 5px;
   margin-top: 0%;
 }
@@ -27,7 +27,7 @@ h1 {
 .days, .hours, .minutes, .seconds {
   display: inline-block;
   padding: 100px;
-  width: 12%;
+  width: 15%;
   border-radius: 15px;
 }
 
@@ -50,5 +50,5 @@ h1 {
 .numbers {
   font-family: "Montserrat", sans-serif;
   color: #323232;
-  font-size: 3em;
+  font-size: 4em;
 }

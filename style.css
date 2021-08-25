@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Montserrat:900");
 body {
   display: grid;
-  background: #323232;
+  background: #2e2e2e;
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
 
 .hours {
   background: #F6F4F3;
-  color: #323232;
+  color: #2e2e2e;
 }
 
 .minutes {
@@ -49,6 +49,6 @@ h1 {
 }
 .numbers {
   font-family: "Montserrat", sans-serif;
-  color: #323232;
+  color: #2e2e2e;
   font-size: 2em;
 }
